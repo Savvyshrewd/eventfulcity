@@ -21,6 +21,7 @@ EventfulCity is an event ticketing site that enable individuals purchase tickets
 * Barcoding generated tickets
 * PayPal integration
 * QuickTeller integration
+* Seating plans | Seat selection
 
 ##Competitors
 * Ticketmatic.com
