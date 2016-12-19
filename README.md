@@ -8,13 +8,13 @@ EventfulCity is an event ticketing site that enable individuals purchase tickets
 * Free event uploads and registration
 * Easy ticket purchase integration
 * User registration
-* User Login page to enables the system identify the best customized events listings to display
+* User Login page to enable the system identify the best customized events listings to display
 * Dedicated purchased tickets history browsing
-* Users’ dedicated uploaded events browsing.
+* User's dedicated uploaded events browsing.
 * Enhanced system security with SSL protection
 * Integrated spam events detector
 * Dedicated contact us page for each registered user on the site
-* Administrators’ uploaded events review and approval page
+* Administrators’ uploaded events, review and approval page
 * Interswitch integration as a reliable and automated payment gateway
  
 ##Future Enhancements
